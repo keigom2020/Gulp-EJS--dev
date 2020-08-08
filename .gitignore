@@ -21,3 +21,5 @@ npm-debug.log*
 /dist/css/*.css
 
 !/dist/js/
+
+index.md
